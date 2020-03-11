@@ -113,7 +113,7 @@ function why_i_hate_code(){
 
         self.init = function(){
 
-            $('window').on('resize', function(){
+            $(window).on('resize', function(){
                 if ( ! self.any_triggers_visible() ) {
                     self.close();
                 }
