@@ -101,9 +101,9 @@ function why_i_hate_code(){
 
         self.toggle = function(){
             if ( self.is_open() ) {
-                close();
+                self.close();
             } else{
-                open();
+                self.open();
             }
         };
 
