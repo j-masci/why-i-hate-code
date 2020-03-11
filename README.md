@@ -1,5 +1,3 @@
-p.s. I don't write front-end very often, but this is pretty much what i do every day in one language or another.
-
 ```js
 
 function why_i_hate_code(){
